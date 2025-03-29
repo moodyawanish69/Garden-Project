@@ -1,0 +1,26 @@
+# Code Citations
+
+## License: unknown
+https://github.com/ChawneH/Visual-Studio-2017/tree/883373863ca878ac40831ac9f2ad48b40e2dabc8/Collegiate%20100%20JSU/gallery.html
+
+```
+nav>
+    <ul>
+      <li><a href="about.html">About Us</a></li>
+      <li><a href="gallery.html">Gallery</a></li>
+      <li><a
+```
+
+
+## License: unknown
+https://github.com/erinreix/Main-Project/tree/6301acc12508f1464f95d2cc423dba0194519d42/index.html
+
+```
+>
+  </div>
+  <nav>
+    <ul>
+      <li><a href="about.html">About Us</a></li>
+      <li><a href="gallery.html">Gallery</a></li
+```
+
