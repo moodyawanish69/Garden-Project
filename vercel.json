@@ -1,0 +1,5 @@
+{
+    "rewrites": [
+      { "source": "/", "destination": "/ai-website/public/index.html" }
+    ]
+  }
