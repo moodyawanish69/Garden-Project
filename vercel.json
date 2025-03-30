@@ -1,5 +1,11 @@
 {
     "rewrites": [
-      { "source": "/", "destination": "/ai-website/public/index.html" }
+      { "source": "/", "destination": "/ai-website/public/index.html" },
+      { "source": "/about", "destination": "/ai-website/public/about.html" },
+      { "source": "/gallery", "destination": "/ai-website/public/gallery.html" },
+      { "source": "/admission", "destination": "/ai-website/public/admission.html" },
+      { "source": "/location", "destination": "/ai-website/public/location.html" },
+      { "source": "/donation", "destination": "/ai-website/public/donation.html" },
+      { "source": "/feedback", "destination": "/ai-website/public/feedback.html" }
     ]
   }
